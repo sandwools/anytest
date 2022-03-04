@@ -1,4 +1,4 @@
-# vue_twt_beta
+# vue_twt_beta_1.3
 
 ## Project setup
 ```
